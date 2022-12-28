@@ -3,6 +3,7 @@
     "name": "kek",
     "slug": "kek",
     "version": "1.0.0",
+    "scheme": "kek",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
